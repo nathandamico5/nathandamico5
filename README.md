@@ -11,7 +11,7 @@ StackOverflow meets Fiverr. A place for posting coding issues with a monetary in
 
 Tech Stack: React, Node/Express, Postres, Docker
 
-
+ ![Solve.it Homescreen](./solveit.png)
 
 ### [ChatLingo](https://github.com/nathandamico5/chatLingo)
 Realtime messaging app that allows users to send and recive messaging in a language of their choice, with messages automatically translated.
