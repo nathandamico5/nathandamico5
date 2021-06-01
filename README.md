@@ -7,16 +7,18 @@ I am always looking to learn new things, expand my knowledge and become a better
 
 ## Recent Projects
 ### [Solve.it](https://github.com/Team-Neptune-FSA/solve-it)
-StackOverflow meets Fiverr. A place for posting coding issues with a monetary incentive for their resolution. A resource for finding quick and efficient solutions to your issues, and/or to make some money as a freelance debugger.
+StackOverflow meets Fiverr. A place for posting coding issues with a monetary incentive for their resolution. A resource for finding quick and efficient solutions to your issues, and/or to make some money as a freelance debugger. Has a built in house IDE included, built with Docker and allowing users to write and run code within our application.
 
 Tech Stack: React, Node/Express, Postres, Docker
 
- ![Solve.it Homescreen](./solveit.png)
+ ![Solve.it Workspace and IDE](solveit2.png)
 
 ### [ChatLingo](https://github.com/nathandamico5/chatLingo)
 Realtime messaging app that allows users to send and recive messaging in a language of their choice, with messages automatically translated.
 
 Tech Stack: React Native, Socket.io, Redux, Node/Express, Postgres, GoogleTranslateAPI
+
+ ![Solve.it Workspace and IDE](chatlingo.png)
 
 ## Contact
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/nathandamico/) or send me an email at <nathandamico5@gmail.com>.
