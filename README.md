@@ -1,7 +1,7 @@
 ## Hello I'm Nathan
 I'm a software engineer with a love for technology and solving complex problems. Along with previous development experience, I have an educational background in computer science and am a graduate of Fullstack Academy. 
 
-My go-to tech stack is fullstack javascript with React on the frontend and Node and Express with Postgres on the Backend.
+My go-to tech stack is fullstack javascript with React on the frontend and Node and Express with PostgresQL on the Backend.
 
 I am always looking to learn new things, expand my knowledge and become a better developer. 
 
